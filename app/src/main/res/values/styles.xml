@@ -1,0 +1,99 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionModeOverlay">true</item>
+    </style>
+
+    <style name="OCMAlertDialog" parent="Base.Theme.AppCompat.Light.Dialog.Alert">
+        <item name="android:colorBackground">@color/white</item>
+        <item name="android:textColorPrimary">@color/black</item>
+        <item name="colorControlNormal">@color/colorAccent</item>
+    </style>
+
+    <style name="OCMButton" parent="Widget.AppCompat.Button">
+        <item name="android:minHeight">@dimen/button_height</item>
+        <item name="android:padding">@dimen/padding_m</item>
+        <item name="android:textSize">@dimen/font_m</item>
+
+    </style>
+
+    <style name="OCMButton.White">
+        <item name="android:textColor">@drawable/color_lime</item>
+        <item name="android:background">@drawable/button_white</item>
+    </style>
+
+    <style name="BlackRegular14">
+        <item name="android:typeface">sans</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="BlackBold14">
+        <item name="android:typeface">sans</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="BlackRegular16">
+        <item name="android:typeface">sans</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">@dimen/font_m</item>
+    </style>
+
+    <style name="BlackBold16">
+        <item name="android:typeface">sans</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">@dimen/font_m</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="BlackRegular20">
+        <item name="android:typeface">sans</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">@dimen/font_l</item>
+    </style>
+
+    <style name="BlackBold20">
+        <item name="android:typeface">sans</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">@dimen/font_l</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="BlackRegular28">
+        <item name="android:typeface">sans</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">@dimen/font_xxl</item>
+    </style>
+
+    <style name="BlackBold28">
+        <item name="android:typeface">sans</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">@dimen/font_xxl</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="AccentRegular14">
+        <item name="android:typeface">sans</item>
+        <item name="android:textColor">@color/colorAccent</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="AccentBold14">
+        <item name="android:typeface">sans</item>
+        <item name="android:textColor">@color/colorAccent</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+
+
+
+
+</resources>

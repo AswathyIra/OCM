@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">OCM</string>
+
+    <string name="login_registertv_text">New User?Click here to register.</string>
+
+    <string name="validation_enter_item">Item name cannot be empty</string>
+
+    <string name="save">SAVE</string>
+    <string name="cancel">CANCEL</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="login">Login</string>
+    <string name="register">REGISTER</string>
+    <string name="add">ADD</string>
+    <string name="add_rig">ADD RIG</string>
+    <string name="add_equip">ADD EQUIP</string>
+    <string name="add_view_rig">RIG</string>
+    <string name="equip_categories">EQUIP CATEGORIES</string>
+    <string name="add_equip_sub">ADD EQUIP SUB</string>
+    <string name="add_engine_sub_system"></string>
+    <string name="add_view_equipment_system">EQUIP SYSTEM</string>
+    <string name="menu_delete">Delete</string>
+    <string name="approve_user">Approve User</string>
+    <string name="mark_approve">Approve</string>
+    <string name="unmark_approve">De-Approve</string>
+
+    <string name="hint_enter_name">Enter name</string>
+    <string name="hint_enter_phone">Enter phone</string>
+    <string name="hint_enter_username">Enter username</string>
+    <string name="hint_enter_password">Enter password</string>
+    <string name="hint_enter_item">Enter item</string>
+
+
+</resources>
